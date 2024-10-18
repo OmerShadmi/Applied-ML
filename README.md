@@ -42,8 +42,3 @@ The dataset used in this project consists of **230,339 rows of hotel reviews**. 
 - Matplotlib 3.8.2
 - Seaborn 0.13.2
 - Pyarrow
-
-Install the required libraries using:
-
-```bash
-pip install -r requirements.txt
